@@ -1,8 +1,6 @@
 # SMC_Contraction
 
-Jennifer Young, Sevtap Ozisik, Beatrice Riviere, and Muhammad Shamim. "A comprehensive mathematical framework for modeling intestinal smooth muscle cell contraction with applications to intestinal edema." Mathematical Biosciences 262 (2015): 206-213.
-
-The code presented here was a collaborative effort between Isadora Calderon, Andrew Ferguson, Andria Remirez, Muhammad S Shamim, and Jennifer Young. Further changes were made by Sevtap Ozisik and Beatrice Riviere.
+This study was conducted at the Department of Computational and Applied Mathematics at Rice University in the summer of 2011 under the supervision of Dr. Jennifer Young as part of the VIGRE Program. The code presented here was a collaborative effort between Isadora Calderon, Andrew Ferguson, Andria Remirez, and Muhammad S Shamim. Further updates to the study were continued by Jennifer Young, Sevtap Ozisik, Beatrice Riviere, and Muhammad Shamim.
 
 See also:
 
