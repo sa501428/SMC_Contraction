@@ -8,4 +8,4 @@ See also:
 
 <a href="http://mshamim.com/research/SMB.pdf">SMB Poster</a>
 
-<a href="http://www.ncbi.nlm.nih.gov/pubmed/25640870">Mathematical Biosciences Article</a>
+<a href="http://www.ncbi.nlm.nih.gov/pubmed/25640870">Mathematical Biosciences Article</a> (<a href="https://github.com/sa501428/SMC_Contraction/blob/master/Mathematical.Biosciences.Article.pdf">Full PDF Link</a>)
